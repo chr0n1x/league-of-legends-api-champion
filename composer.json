@@ -1,0 +1,18 @@
+{
+    "name": "chr0n1x/lol-champions",
+    "description": "PHP API wrapper for the RiotAPI Champions endpoint",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Kevin Ran",
+            "email": "heilong24@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "nategood/httpful": "0.2.11"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "3.7.30"
+    }
+}
