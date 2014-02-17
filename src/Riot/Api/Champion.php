@@ -3,7 +3,6 @@
 namespace Riot\Api;
 
 use Riot\Api;
-use Httpful\Request;
 
 class Champion extends Api {
 
